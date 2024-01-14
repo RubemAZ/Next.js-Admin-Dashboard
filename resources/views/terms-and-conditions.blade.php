@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Alpha ti</title>
+        <title>FastCodingTi</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -25,7 +25,7 @@
         <main>
             <section class="container py-5 my-5">
                 <h1 class="fw-bold text-gradient-dark pt-4 mt-4 mb-4">
-                    Termos e condições de uso — Alpha ti
+                    Termos e condições de uso — FastCodingTi
                 </h1>
 
                 <p class="text-lg-start fw-bold text-gradient mx-5 mb-5">
@@ -33,7 +33,7 @@
                 </p>
 
                 <p class="text-lg-start fw-bold text-gradient mx-5">
-                    Alpha ti, pessoa jurídica de direito privado descreve, através deste documento, as regras de uso do site http://Alpha tiapp.herokuapp.com e qualquer outro site, loja ou aplicativo operado pelo proprietário.
+                    FastCodingTi, pessoa jurídica de direito privado descreve, através deste documento, as regras de uso do site http://FastCodingTiapp.herokuapp.com e qualquer outro site, loja ou aplicativo operado pelo proprietário.
                 </p>
 
                 <p class="text-lg-start fw-bold text-gradient mx-5">
@@ -69,7 +69,7 @@
                         </h4>
 
                         <p class="text-lg-start fw-bold text-gradient mx-5">
-                            A utilização deste website acarreta a adesão aos presentes Termos de Uso e a versão mais atualizada da Política de Privacidade de Alpha ti.
+                            A utilização deste website acarreta a adesão aos presentes Termos de Uso e a versão mais atualizada da Política de Privacidade de FastCodingTi.
                         </p>
                     </li>
 
@@ -79,15 +79,15 @@
                         </h4>
 
                         <p class="text-lg-start fw-bold text-gradient mx-5">
-                            Em geral, o acesso ao website da Alpha ti possui caráter gratuito e não exige prévia inscrição ou registro. <br>
+                            Em geral, o acesso ao website da FastCodingTi possui caráter gratuito e não exige prévia inscrição ou registro. <br>
 
                             Contudo, para usufruir de algumas funcionalidades, o usuário poderá precisar efetuar um cadastro, criando uma conta de usuário com login e senha próprios para acesso.<br>
 
                             É de total responsabilidade do usuário fornecer apenas informações corretas, autênticas, válidas, completas e atualizadas, bem como não divulgar o seu login e senha para terceiros.<br>
 
-                            Partes deste website oferecem ao usuário a opção de publicar comentários em determinadas áreas. Alpha ti não consente com a publicação de conteúdos que tenham natureza discriminatória, ofensiva ou ilícita, ou ainda infrinjam direitos de autor ou quaisquer outros direitos de terceiros.<br>
+                            Partes deste website oferecem ao usuário a opção de publicar comentários em determinadas áreas. FastCodingTi não consente com a publicação de conteúdos que tenham natureza discriminatória, ofensiva ou ilícita, ou ainda infrinjam direitos de autor ou quaisquer outros direitos de terceiros.<br>
 
-                            A publicação de quaisquer conteúdos pelo usuário deste website, incluindo mensagens e comentários, implica em licença não-exclusiva, irrevogável e irretratável, para sua utilização, reprodução e publicação pela Alpha ti no seu website, plataformas e aplicações de internet, ou ainda em outras plataformas, sem qualquer restrição ou limitação.
+                            A publicação de quaisquer conteúdos pelo usuário deste website, incluindo mensagens e comentários, implica em licença não-exclusiva, irrevogável e irretratável, para sua utilização, reprodução e publicação pela FastCodingTi no seu website, plataformas e aplicações de internet, ou ainda em outras plataformas, sem qualquer restrição ou limitação.
                         </p>
                     </li>
 
@@ -111,7 +111,7 @@
                         </h4>
 
                         <p class="text-lg-start fw-bold text-gradient mx-5">
-                            Todos os elementos de Alpha ti são de propriedade intelectual da mesma ou de seus licenciados. Estes Termos ou a utilização do website não concede a você qualquer licença ou direito de uso dos direitos de propriedade intelectual da Alpha ti ou de terceiros.
+                            Todos os elementos de FastCodingTi são de propriedade intelectual da mesma ou de seus licenciados. Estes Termos ou a utilização do website não concede a você qualquer licença ou direito de uso dos direitos de propriedade intelectual da FastCodingTi ou de terceiros.
                         </p>
                     </li>
 
@@ -135,7 +135,7 @@
                         <p class="text-lg-start fw-bold text-gradient mx-5">
                             O funcionamento deste website se dá por prazo indeterminado. <br>
 
-                            O website no todo ou em cada uma das suas seções, pode ser encerrado, suspenso ou interrompido unilateralmente por Alpha ti, a qualquer momento e sem necessidade de prévio aviso.
+                            O website no todo ou em cada uma das suas seções, pode ser encerrado, suspenso ou interrompido unilateralmente por FastCodingTi, a qualquer momento e sem necessidade de prévio aviso.
                         </p>
                     </li>
 
@@ -145,7 +145,7 @@
                         </h4>
 
                         <p class="text-lg-start fw-bold text-gradient mx-5">
-                            Durante a utilização deste website, certos dados pessoais serão coletados e tratados por Alpha ti e/ou pelos Parceiros. As regras relacionadas ao tratamento de dados pessoais de Alpha ti estão estipuladas na Política de Privacidade.
+                            Durante a utilização deste website, certos dados pessoais serão coletados e tratados por FastCodingTi e/ou pelos Parceiros. As regras relacionadas ao tratamento de dados pessoais de FastCodingTi estão estipuladas na Política de Privacidade.
                         </p>
                     </li>
 
@@ -155,7 +155,7 @@
                         </h4>
 
                         <p class="text-lg-start fw-bold text-gradient mx-5">
-                            Caso você tenha qualquer dúvida sobre os Termos de Uso, por favor, entre em contato pelo e-mail Alpha ti.app@gmail.com
+                            Caso você tenha qualquer dúvida sobre os Termos de Uso, por favor, entre em contato pelo e-mail FastCodingTi.app@gmail.com
                         </p>
                     </li>
                 </ul>

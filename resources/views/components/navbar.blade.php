@@ -2,7 +2,15 @@
     <nav class="navbar fixed-top white shadow-lg">
         <div class="container">
             <a class="navbar-brand" href="/">
-                <img src="{{ asset('img/navbar-logo.png')}}"  width="60%">
+                <div class="row">
+                    <div class="col-4">
+                        <img src="{{ asset('img/navbar-logo.png')}}"  width="60%">
+                    </div>
+
+                    <div class="col-8">
+                        <p>FastCoding</p>
+                    </div>
+                </div>
             </a>
 
             <ul class="navbar-nav d-flex flex-row">

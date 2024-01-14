@@ -58,7 +58,7 @@
                                 <div class="text-center mt-4">
                                     <a class="fw-bold nav-link font-small" href="/institutional">
                                         <span>
-                                            Alpha TI Institucional
+                                            FastCodingTi Institucional
                                         </span>
                                     </a>
 

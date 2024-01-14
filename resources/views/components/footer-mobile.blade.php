@@ -35,7 +35,7 @@
             <div class="text-center">
                 <a class="fw-bold nav-link" href="/institutional">
                     <p class="fs-5  m-0 my-2">
-                        Alpha TI Institucional
+                        FastCodingTi Institucional
                     </p>
                 </a>
             </div>

@@ -5,6 +5,7 @@
                 <div class="col-9">
                     <a class="navbar-brand" href="/">
                         <img src="{{ asset('img/navbar-logo.png')}}"  width="90%">
+                        <h1>FastCoding TI</h1>
                     </a>
                 </div>
 
