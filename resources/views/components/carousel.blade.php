@@ -3,7 +3,7 @@
         <div class="carousel-card yellow rounded">
             <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
                 <h1 class="text-center text-gradient-dark fw-bold p-2">
-                    Junte-se a nós!
+                    A solução em Tecnologia que sua empresa precisa.
                 </h1>
 
                 <div class="carousel-indicators">
@@ -22,7 +22,7 @@
 
                 <div class="carousel-inner rounded">
                     <div class="carousel-item active">
-                        <img src="{{ asset('img/join-section/mobile-carousel/carousel-card-0.png') }}" class="d-block w-100" alt="...">
+                        <img src="{{ asset('img/join-section/mobile-carousel/carousel-card-0.jpg') }}" class="d-block w-100" alt="...">
                     </div>
 
                     <div class="carousel-item">
@@ -30,19 +30,19 @@
                     </div>
 
                     <div class="carousel-item">
-                        <img src="{{ asset('img/join-section/mobile-carousel/carousel-card-2.png') }}" class="d-block w-100" alt="...">
+                        <img src="{{ asset('img/join-section/mobile-carousel/carousel-card-2.jpg') }}" class="d-block w-100" alt="...">
                     </div>
 
                     <div class="carousel-item">
-                        <img src="{{ asset('img/join-section/mobile-carousel/carousel-card-3.png') }}" class="d-block w-100" alt="...">
+                        <img src="{{ asset('img/join-section/mobile-carousel/carousel-card-3.jpg') }}" class="d-block w-100" alt="...">
                     </div>
 
                     <div class="carousel-item">
-                        <img src="{{ asset('img/join-section/mobile-carousel/carousel-card-4.png') }}" class="d-block w-100" alt="...">
+                        <img src="{{ asset('img/join-section/mobile-carousel/carousel-card-4.jpg') }}" class="d-block w-100" alt="...">
                     </div>
 
                     <div class="carousel-item">
-                        <img src="{{ asset('img/join-section/mobile-carousel/carousel-card-5.png') }}" class="d-block w-100" alt="...">
+                        <img src="{{ asset('img/join-section/mobile-carousel/carousel-card-5.jpg') }}" class="d-block w-100" alt="...">
                     </div>
                 </div>
 
@@ -59,11 +59,12 @@
                 </button>
             </div>
 
-            <h5 class="fw-bold p-2">
-                Através do catálogo de parceiros podemos impulsionar seu negócio, seja ele qual for, e levar os clientes até voce.
-
-                <a class="button-gradient rounded fs-2 text-center my-3 mx-auto" href="sign-up">faça parte</a>
-            </h5>
+            <h1 class="text-center text-gradient-dark fw-bold p-2">
+                Sites <br>
+                Aplicativos <br>
+                E-commerce <br>
+                Outros sistemas
+            </h1>
         </div>
     </div>
 </section>

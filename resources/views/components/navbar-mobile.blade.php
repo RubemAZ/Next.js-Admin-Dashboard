@@ -1,12 +1,18 @@
 <div class="navbar-mobile position-absolute top-0 z-50 w-100">
     <nav class="navbar fixed-top white shadow-lg">
         <div class="container">
-            <div class="row">
                 <div class="col-9">
-                    <a class="navbar-brand" href="/">
-                        <img src="{{ asset('img/navbar-logo.png')}}"  width="90%">
-                        <h1>FastCoding TI</h1>
-                    </a>
+                <div class="row">
+                    <div class="col-4">
+                        <div class="mx-0 px-0">
+                            <img src="{{ asset('img/main-logo.png')}}"  width="90%">
+                        </div>
+                    </div>
+
+                    <div class="col-8 ms-0 ps-0">
+                        <h1 class="mt-3 display-3 fw-bold">FastCoding</h1>
+                    </div>
+                </div>
                 </div>
 
                 <div class="col-3 m-auto float-end">
@@ -53,7 +59,7 @@
 
                         <li class="nav-item mx-auto my-5">
                             <a href="sign-in" class="button-gradient rounded fw-bold fs-2">
-                                Entre
+                                Fale Conosco
                             </a>
                         </li>
                     </ul>

@@ -4,10 +4,12 @@
             <a class="navbar-brand" href="/">
                 <div class="row">
                     <div class="col-4">
-                        <img src="{{ asset('img/navbar-logo.png')}}"  width="60%">
+                        <div class="mx-0 px-0">
+                            <img src="{{ asset('img/navbar-logo.png')}}"  width="90%">
+                        </div>
                     </div>
 
-                    <div class="col-8">
+                    <div class="col-8 ms-0 ps-0">
                         <p>FastCoding</p>
                     </div>
                 </div>
@@ -34,7 +36,7 @@
 
                 <li class="nav-item mx-3 my-auto">
                     <a href="sign-in" class="button-gradient rounded fw-bold float-end">
-                        Entre   
+                        Fale Conosco  
                     </a>
                 </li>
             </ul>
