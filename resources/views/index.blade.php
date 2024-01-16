@@ -30,34 +30,31 @@
 
             </section>
             
-            <!-- JOIN US MOBILE CAROUSEL -->
+            <!-- BANNER MOBILE CAROUSEL -->
             <section>
                 <x-carousel/>
             </section>
 
-            <!-- JOIN US SECTION -->
+            <!-- BANNER SECTION -->
             <section class="join-section yellow py-5 mb-5">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 root-section my-auto">
                             <h1 class="fw-bold text-gradient-dark mb-4">
-                                Junte-se a nós!
+                                A solução em Tecnologia que sua empresa precisa.
                             </h1>
 
-                            <h5 class="text-center text-lg-start fw-bold text-gradient mx-5 mb-5">
-                                Através do nosso catálogo de parceiros podemos impulsionar seu negócio, seja ele qual for, e levar os clientes até voce.
-                            </h5>
-                            
-                            <div class="mx-5 my-4">
-                                <a href="sign-up" class="button-gradient rounded fs-2 fw-bold float-end ">
-                                    Faça parte  
-                                </a>
-                            </div>
+                            <h2 class="text-center text-gradient-dark fw-bold p-2">
+                                Sites <br>
+                                Aplicativos <br>
+                                E-commerce <br>
+                                Outros sistemas
+                            </h2>
                         </div>
 
                         <div class="col-md-3 mt-5 mx-0 px-0">
                             <div class="justify-content-around pt-5">
-                                <img src="{{ asset('img/card-1.jpeg') }}" class="img-fluid">
+                                <img src="{{ asset('img/card-1.jpg') }}" class="img-fluid">
                             </div>
 
                             <div class="justify-content-around pb-5">
@@ -67,7 +64,7 @@
 
                         <div class="col-md-3  mx-0 px-0">
                             <div class="justify-content-around pt-5">
-                                <img src="{{ asset('img/card-3.jpg') }}" class="img-fluid">
+                                <img src="{{ asset('img/card-3.png') }}" class="img-fluid">
                             </div>
 
                             <div class="justify-content-around pb-5 mb-4">
