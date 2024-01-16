@@ -75,8 +75,46 @@
                 </div>
             </section>
 
+             <!-- ABOUT US SECTION -->
+             <section class="container watermark mt-5">
+                 <h1 class="text-gradient-dark text-center text-lg-start fw-bold mb-4">
+                     Sobre Nós
+                 </h1>
+                <div class="row">
+                    <div class="col-md-4">
+                        <h3 class="text-gradient-dark text-center text-lg-start fw-bold mb-4">
+                            Missão
+                        </h3>
+
+                        <p class="text-gradient-dark text-center text-lg-start fw-bold">
+                            Nossa missão é entregar o que há de melhor em tecnologia para cada cliente de acordo com suas necessidades.
+                        </p>
+                    </div>
+
+                    <div class="col-md-4">
+                        <h3 class="text-gradient-dark text-center text-lg-start fw-bold mb-4">
+                            Visão
+                        </h3>
+
+                        <p class="text-gradient-dark text-center text-lg-start fw-bold">
+                            Nossa visão está no futuro e no presente. Estamos focados em encontrar o que há de melhor com o melhor custo benefício para cada cliente.
+                        </p>
+                    </div>
+
+                    <div class="col-md-4">
+                        <h3 class="text-gradient-dark text-center text-lg-start fw-bold mb-4">
+                            Valores
+                        </h3>
+
+                        <p class="text-gradient-dark text-center text-lg-start fw-bold">
+                            Prezamos acima de tudo pela ética e pelo respeito, entendemos que a função de todo profissional é melhorar o mundo dentro da sua área de atuação.
+                        </p>
+                    </div>
+                </div>
+            </section>
+
             <!-- TALK US SECTION -->
-            <section class="container watermark mt-5">
+            <section class="mt-5">
                 <div class="row">
                     <div class="col-md-6">
                         <h1 class="text-gradient-dark text-center text-lg-start fw-bold mb-4">
