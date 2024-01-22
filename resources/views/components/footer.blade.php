@@ -48,7 +48,7 @@
 
                             <div class="col-6">
                                 <p class="font-small mt-4">
-                                    © Copyright 2023 <br>
+                                    © Copyright 2024 <br>
                                     alphati.com.br - All rights reserved<br>
                                     alphati@gmail.com <br>
                                 </p>
@@ -87,27 +87,7 @@
             </div>
                 
             <div class="col-4">
-                <h1 class="text-gradient-dark text-center fs-2 fw-bold">
-                    Baixe o App
-                </h1>
 
-                <div class="row white rounded mx-3 mb-5">
-                    <div class="col-6 text-center nav-link fw-bold">
-                        <p class="pt-1">
-                            Google Play
-                        </p>
-            
-                        <img src="{{ asset('img/qrcode.png') }}"  width="70%">
-                    </div>
-                    
-                    <div class="col-6 text-center nav-link fw-bold">
-                        <p class="pt-1">
-                            Apple Store
-                        </p>
-            
-                        <img src="{{ asset('img/qrcode.png') }}"  width="70%">
-                    </div>
-                </div>
             </div>
         </div>
     </div>

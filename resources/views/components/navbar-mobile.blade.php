@@ -24,16 +24,6 @@
             
             <div class="offcanvas offcanvas-end white watermark" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
                 <div class="offcanvas-header">
-                    <!-- <div class="row">
-                        <div class="col-6">
-                            <a class="nav-link fw-bold" href="#"><img src="{{ asset('img/link-apple.png') }}" alt=""></a>
-                        </div>
-
-                        <div class="col-6">
-                            <a class="nav-link fw-bold" href="#"><img src="{{ asset('img/link-google.png') }}" alt=""></a>
-                        </div>
-                    </div> -->
-
                     <button type="button" class="btn-close float-end" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                 </div>
 

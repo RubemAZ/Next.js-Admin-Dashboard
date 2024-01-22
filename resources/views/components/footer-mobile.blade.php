@@ -68,12 +68,12 @@
         <footer>
             <div class="row">
                 <div class="col-4 my-auto">
-                    <img src="{{ asset('img/footer-logo.png') }}" width="120%">
+                    <img src="{{ asset('img/footer-logo.png') }}" width="100%">
                 </div>
 
                 <div class="col-8 float-end">
                     <p class="font-small mt-4">
-                        © Copyright 2023 <br>
+                        © Copyright 2024 <br>
                         alphati.com.br - All rights reserved<br>
                         alpha.ti@gmail.com <br>
                     </p>
