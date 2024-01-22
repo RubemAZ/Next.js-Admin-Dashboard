@@ -17,20 +17,8 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/catalog', function () {
-    return view('catalog');
-});
-
 Route::get('/common-questions', function () {
     return view('common-questions');
-});
-
-Route::get('/sign-in', function () {
-    return view('sign-in');
-});
-
-Route::get('/sign-up', function () {
-    return view('sign-up');
 });
 
 Route::get('/terms-and-conditions', function () {

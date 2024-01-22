@@ -76,22 +76,22 @@
             </section>
 
              <!-- ABOUT US SECTION -->
-             <section class="container watermark mt-5">
+             <section class="container mt-5">
                  <h1 class="text-gradient-dark text-center text-lg-start fw-bold mb-4">
                      Sobre Nós
                  </h1>
-                <div class="row">
-                    <div class="col-md-4">
+                <div class="row mx-3">
+                    <div class="col-md-4 card py-3 mb-5 shadow rounded-3 ">
                         <h3 class="text-gradient-dark text-center text-lg-start fw-bold mb-4">
                             Missão
                         </h3>
 
-                        <p class="text-gradient-dark text-center text-lg-start fw-bold">
+                        <p class=" text-center text-lg-start fw-bold">
                             Nossa missão é entregar o que há de melhor em tecnologia para cada cliente de acordo com suas necessidades.
                         </p>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-md-4 card py-3 mb-5 shadow rounded-3">
                         <h3 class="text-gradient-dark text-center text-lg-start fw-bold mb-4">
                             Visão
                         </h3>
@@ -101,20 +101,20 @@
                         </p>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-md-4 card py-3 mb-5 shadow rounded-3">
                         <h3 class="text-gradient-dark text-center text-lg-start fw-bold mb-4">
                             Valores
                         </h3>
 
                         <p class="text-gradient-dark text-center text-lg-start fw-bold">
-                            Prezamos acima de tudo pela ética e pelo respeito, entendemos que a função de todo profissional é melhorar o mundo dentro da sua área de atuação.
+                            Prezamos acima de tudo pela ética e pelo respeito, entendemos que a função de toda empresa e de todo profissional é melhorar o mundo dentro da sua área de atuação.
                         </p>
                     </div>
                 </div>
             </section>
 
             <!-- TALK US SECTION -->
-            <section class="mt-5">
+            <section class="mt-5 watermark">
                 <div class="row">
                     <div class="col-md-6">
                         <h1 class="text-gradient-dark text-center text-lg-start fw-bold mb-4">
