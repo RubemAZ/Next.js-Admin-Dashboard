@@ -94,7 +94,7 @@ main {
     .button-gradient:hover {
         background-position: right center;
         /* change the direction of the change here */
-        color: #fac710;
+        color: #00d3e3;
         text-decoration: none;
     }
 
