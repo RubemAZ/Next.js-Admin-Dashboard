@@ -49,8 +49,8 @@
                             <div class="col-6">
                                 <p class="font-small mt-4">
                                     © Copyright 2024 <br>
-                                    alphati.com.br - All rights reserved<br>
-                                    alphati@gmail.com <br>
+                                    fastcodingti.com.br - All rights reserved<br>
+                                    fastcodingti@gmail.com <br>
                                 </p>
                             </div>
 

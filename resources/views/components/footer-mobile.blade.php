@@ -74,8 +74,8 @@
                 <div class="col-8 float-end">
                     <p class="font-small mt-4">
                         © Copyright 2024 <br>
-                        alphati.com.br - All rights reserved<br>
-                        alpha.ti@gmail.com <br>
+                        fastcodingti.com.br - All rights reserved<br>
+                        fastcodingti@gmail.com <br>
                     </p>
                 </div>
             </div>
