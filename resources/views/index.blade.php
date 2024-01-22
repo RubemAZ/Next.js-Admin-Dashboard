@@ -81,7 +81,7 @@
                      Sobre Nós
                  </h1>
                 <div class="row mx-3">
-                    <div class="col-md-4 card py-3 mb-5 shadow rounded-3 ">
+                    <div class="col-md-4 card py-3 mb-5 shadow rounded-3">
                         <h3 class="text-gradient-dark text-center text-lg-start fw-bold mb-4">
                             Missão
                         </h3>
@@ -96,7 +96,7 @@
                             Visão
                         </h3>
 
-                        <p class="text-gradient-dark text-center text-lg-start fw-bold">
+                        <p class="text-center text-lg-start fw-bold">
                             Nossa visão está no futuro e no presente. Estamos focados em encontrar o que há de melhor com o melhor custo benefício para cada cliente.
                         </p>
                     </div>
@@ -106,7 +106,7 @@
                             Valores
                         </h3>
 
-                        <p class="text-gradient-dark text-center text-lg-start fw-bold">
+                        <p class="text-center text-lg-start fw-bold">
                             Prezamos acima de tudo pela ética e pelo respeito, entendemos que a função de toda empresa e de todo profissional é melhorar o mundo dentro da sua área de atuação.
                         </p>
                     </div>

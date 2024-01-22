@@ -1,8 +1,8 @@
-<div class="join-mobile-carousel yellow mt-5 pt-5">    
-    <div class="container yellow rounded">
-        <div class="carousel-card yellow rounded">
+<div class="join-mobile-carousel blue mt-5 pt-5">    
+    <div class="container blue rounded">
+        <div class="carousel-card blue rounded">
             <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
-                <h1 class="text-center text-gradient-dark fw-bold p-2">
+                <h1 class="text-center text-white fw-bold p-2">
                     A solução em Tecnologia que sua empresa precisa.
                 </h1>
 
@@ -59,7 +59,7 @@
                 </button>
             </div>
 
-            <h1 class="text-center text-gradient-dark fw-bold p-2">
+            <h1 class="text-center text-white fw-bold p-2">
                 Sites <br>
                 Aplicativos <br>
                 E-commerce <br>

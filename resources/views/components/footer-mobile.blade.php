@@ -5,41 +5,21 @@
         </h1>
 
         <div class="row py-3 mb-3 mx-1">
-            <div class="col-2">
-                <img src="{{ asset('img/icon-facebook.svg')}}"  width="120%" alt="" class="filter-gray pe-1">
+            <div class="col-4">
+                <img src="{{ asset('img/icon-facebook.svg')}}"  width="90%" alt="" class="filter-gray pe-1">
             </div>
 
-            <div class="col-2">
-                <img src="{{ asset('img/icon-instagram.svg')}}"  width="120%" alt="" class="filter-gray pe-1">
+            <div class="col-4">
+                <img src="{{ asset('img/icon-instagram.svg')}}"  width="90%" alt="" class="filter-gray pe-1">
             </div>
                 
-            <div class="col-2">
-                <img src="{{ asset('img/icon-whatsapp.svg')}}"  width="120%" alt="" class="filter-gray pe-1">
-            </div>
-
-            <div class="col-2">
-                <img src="{{ asset('img/icon-youtube.svg')}}"  width="120%" alt="" class="filter-gray pe-1">
-            </div>
-
-            <div class="col-2">
-                <img src="{{ asset('img/icon-twitter.svg')}}"  width="120%" alt="" class="filter-gray pe-1">
-            </div>
-
-            <div class="col-2">
-                <img src="{{ asset('img/icon-tiktok.svg')}}"  width="120%" alt="" class="filter-gray pe-1">
+            <div class="col-4">
+                <img src="{{ asset('img/icon-whatsapp.svg')}}"  width="90%" alt="" class="filter-gray pe-1">
             </div>
         </div>
 
         
         <div class="row">
-            <div class="text-center">
-                <a class="fw-bold nav-link" href="/institutional">
-                    <p class="fs-5  m-0 my-2">
-                        FastCodingTi Institucional
-                    </p>
-                </a>
-            </div>
-
             <div class="text-center">
                 <a class="fw-bold nav-link" href="/privacy-policy">
                     <p class="fs-5  m-0 my-2">

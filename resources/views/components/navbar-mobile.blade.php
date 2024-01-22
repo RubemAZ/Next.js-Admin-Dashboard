@@ -41,12 +41,6 @@
                             </a>
                         </li>
 
-                        <li class="nav-item mx-2 my-3">
-                            <a class="nav-link fw-bold fs-2" href="sign-up">
-                                Cadastre
-                            </a>
-                        </li>
-
                         <li class="nav-item mx-auto my-5">
                             <a href="sign-in" class="button-gradient rounded fw-bold fs-2">
                                 Fale Conosco

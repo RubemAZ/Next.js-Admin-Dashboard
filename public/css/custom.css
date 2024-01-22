@@ -52,11 +52,11 @@ main {
         background-color:#363636;
     }
 
-    .yellow{
+    .blue{
         background-color: #00d3e3;
     }
 
-    .yellow-dark{
+    .blue-dark{
         background-color: #03c0cd;
     }
 
@@ -71,6 +71,12 @@ main {
     }
 
     /* GRADIENTS THEME */
+    .carousel-gradient {
+        border-radius: 29px;
+        background: #00d3e3;
+        box-shadow:  50px 50px 100px #00b5c3,
+                     -50px -50px 100px #00f1ff;
+    }
     
     .button-gradient {
         background: #00d3e3;
@@ -98,6 +104,9 @@ main {
         text-decoration: none;
     }
 
+    .text-white {
+       color: #ececec;
+    }
 
     .text-gradient {
         -webkit-background-clip: text;
