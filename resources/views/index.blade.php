@@ -36,8 +36,8 @@
             </section>
 
             <!-- BANNER SECTION -->
-            <section class="join-section yellow py-5 mb-5">
-                <div class="container">
+            <section class="join-section blue py-5 mb-5">
+                <div class="container banner-img">
                     <div class="row">
                         <div class="col-md-6 root-section my-auto">
                             <h1 class="fw-bold text-gradient-dark mb-4">
