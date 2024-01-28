@@ -25,12 +25,6 @@
         </header>
         
         <main>
-
-            <!-- BANNER -->
-            <section>
-
-            </section>
-            
             <!-- BANNER MOBILE CAROUSEL -->
             <section>
                 <x-carousel/>
