@@ -124,7 +124,7 @@
             </section>
 
             <!-- TALK US SECTION -->
-            <section class="mt-5 watermark">
+            <section class="container mt-5 watermark">
                 <div class="row">
                     <div class="col-md-6">
                         <h1 class="text-gradient-dark text-center text-lg-start fw-bold mb-4">
