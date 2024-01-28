@@ -1,16 +1,33 @@
 {
-    "private": true,
-    "type": "module",
-    "scripts": {
-        "dev": "vite",
-        "build": "vite build"
-    },
-    "devDependencies": {
-        "axios": "^1.6.1",
-        "laravel-vite-plugin": "^1.0.0",
-        "vite": "^5.0.0"
-    },
-    "dependencies": {
-        "bootstrap": "^5.3.2"
-    }
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "axios": "^1.6.1",
+    "laravel-vite-plugin": "^1.0.0",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  },
+  "name": "institutional-website",
+  "description": "$ git clone https://github.com/RubemAZ/institutional-website.git",
+  "version": "1.0.0",
+  "main": "vite.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubemAZ/institutional-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubemAZ/institutional-website/issues"
+  },
+  "homepage": "https://github.com/RubemAZ/institutional-website#readme"
 }

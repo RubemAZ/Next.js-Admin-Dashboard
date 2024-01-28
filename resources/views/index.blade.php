@@ -14,6 +14,7 @@
         <!-- Styles -->
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
         <link href="{{ asset('css/custom.css') }}" rel="stylesheet">
+        <link href="{{ asset('css/typewriter-effect.css') }}" rel="stylesheet">
     </head>
 
     <body>
@@ -71,6 +72,15 @@
                                 <img src="{{ asset('img/card-4.jpg') }}" class="img-fluid">
                             </div>
                         </div>
+                    </div>
+                </div>
+            </section>
+
+            <section>
+                <div class="container py-5">
+                    <div class="output" id="output">
+                        <h1 class="cursor"></h1>
+                        <p></p>
                     </div>
                 </div>
             </section>
@@ -175,5 +185,6 @@
     </body>
     <!-- SCRIPTS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+    <script src="{{ asset('js/typewriter-effect.js') }}"></script>
     <!-- SCRIPTS -->
 </html>
