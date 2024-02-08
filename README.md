@@ -1,8 +1,8 @@
 # How to start?
 
-$ git clone https://github.com/RubemAZ/institutional-website.git
+$ git clone https://github.com/RubemAZ/hotsite.git
 
-$ cd institutional website
+$ cd hotsite
 
 Rename the .env.example file to .env
 
