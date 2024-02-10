@@ -25,14 +25,14 @@
         <main>
             <section class="container py-5 my-5">
                 <h1 class="fw-bold text-gradient-dark pt-4 mt-4 mb-4">
-                    Política de privacidade — FastCodingTi
+                    Política de privacidade — FastCodingTI
                 </h1>
 
                 <p class="text-lg-start fw-bold text-gradient mx-5 mb-5">
-                    A sua privacidade é importante para nós. É política do FastCodingTi respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site 
+                    A sua privacidade é importante para nós. É política do FastCodingTI respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site 
                     
-                    <a href=http://FastCodingTiapp.herokuapp.com>
-                        FastCodingTi
+                    <a href=http://FastCodingTIapp.herokuapp.com>
+                        FastCodingTI
                     </a>, e outros sites que possuímos e operamos.
                 </p>
                 
@@ -65,7 +65,7 @@
                 </p>
                 
                 <h2 class="fw-bold text-gradient-dark pt-4 mt-4 mb-4">
-                    Política de Cookies FastCodingTi
+                    Política de Cookies FastCodingTI
                 </h2> 
                 
                 <h3 class="fw-bold text-gradient-dark pt-4 mt-4 mb-4">
@@ -178,7 +178,7 @@
                 </h3> 
                 
                 <p class="text-lg-start fw-bold text-gradient mx-5 mb-5">
-                    O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o FastCodingTi oferece no site e com caráter enunciativo, mas não limitativo:
+                    O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o FastCodingTI oferece no site e com caráter enunciativo, mas não limitativo:
                 </p> 
                 
                 <ul>
@@ -191,7 +191,7 @@
                     </li> 
                     
                     <li class="fw-bold text-gradient-dark mb-4">
-                        C) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do FastCodingTi, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
+                        C) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do FastCodingTI, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
                     </li> 
                 </ul> 
                 
