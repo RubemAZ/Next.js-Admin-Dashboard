@@ -13,8 +13,8 @@
   "dependencies": {
     "bootstrap": "^5.3.2"
   },
-  "name": "institutional-website",
-  "description": "$ git clone https://github.com/RubemAZ/institutional-website.git",
+  "name": "Hotsite",
+  "description": "$ git clone https://github.com/RubemAZ/Hotsite.git",
   "version": "1.0.0",
   "main": "vite.config.js",
   "directories": {
@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RubemAZ/institutional-website.git"
+    "url": "git+https://github.com/RubemAZ/Hotsite.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RubemAZ/institutional-website/issues"
+    "url": "https://github.com/RubemAZ/Hotsite/issues"
   },
-  "homepage": "https://github.com/RubemAZ/institutional-website#readme"
+  "homepage": "https://github.com/RubemAZ/Hotsite#readme"
 }
