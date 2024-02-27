@@ -1,4 +1,4 @@
-# A simple website template
+# A hotsite template
 
 ## How to start?
 
