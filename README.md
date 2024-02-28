@@ -8,6 +8,8 @@ $ cd hotsite
 
 Rename the .env.example file to .env
 
+$ php artisan key:generate
+
 $ npm install
 
 $ composer install
