@@ -1,4 +1,4 @@
-# A simple website template
+# A hotsite template
 
 ## How to start?
 
@@ -9,6 +9,8 @@ $ cd hotsite
 $ cd front
 
 Rename the .env.example file to .env
+
+$ php artisan key:generate
 
 $ npm install
 
