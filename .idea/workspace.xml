@@ -6,16 +6,24 @@
   <component name="ChangeListManager">
     <list default="true" id="c676f173-bc62-41e1-ae3e-ab042e74683f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/layout/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/layout/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/styles/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/styles/page.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/styles/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/Button.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/Footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/Header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/layout/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/next.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/about.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/contact.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/styles/page.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/utils/helpers.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,22 +33,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "RubemAZ"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RubemAZ&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/RubemAZ/Hotsite-template.git",
-    "accountId": "3df6baa6-edd2-4fa0-8b68-13f281a4a159"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RubemAZ/Hotsite-template.git&quot;,
+    &quot;accountId&quot;: &quot;3df6baa6-edd2-4fa0-8b68-13f281a4a159&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2oMRpz0SO8EOdd8pNaMyyjyuotM" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,26 +57,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dev",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Projects\\Hotsite-template\\frontend\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Projects\\Hotsite-template\\frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Projects\Hotsite-template\frontend\pages" />
+      <recent name="C:\Projects\Hotsite-template\frontend\src\app" />
+      <recent name="C:\Projects\Hotsite-template\frontend\src" />
+      <recent name="C:\Projects\Hotsite-template\frontend\src\app\styles" />
       <recent name="C:\Projects\Hotsite-template\frontend\styles" />
-      <recent name="C:\Projects\Hotsite-template\frontend\components\layout" />
-      <recent name="C:\Projects\Hotsite-template\frontend" />
-      <recent name="C:\Projects\Hotsite-template\components" />
+      <recent name="C:\Projects\Hotsite-template\frontend\app" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -87,10 +95,27 @@
       <option name="presentableId" value="Default" />
       <updated>1730677646000</updated>
       <workItem from="1730677647666" duration="4789000" />
+      <workItem from="1730787821334" duration="3411000" />
+      <workItem from="1730794926223" duration="811000" />
+      <workItem from="1730795756655" duration="18000" />
+      <workItem from="1730795783211" duration="37000" />
+      <workItem from="1730795902990" duration="2404000" />
+      <workItem from="1730798674157" duration="1889000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/app/layout.tsx</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
