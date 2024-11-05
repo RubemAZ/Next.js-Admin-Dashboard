@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c676f173-bc62-41e1-ae3e-ab042e74683f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Header.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Button.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Footer.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Header.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/layout/layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/next.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/about.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/contact.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/styles/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/styles/page.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/utils/helpers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +87,9 @@
       <workItem from="1730795783211" duration="37000" />
       <workItem from="1730795902990" duration="2404000" />
       <workItem from="1730798674157" duration="1889000" />
+      <workItem from="1730800588666" duration="702000" />
+      <workItem from="1730801307686" duration="11000" />
+      <workItem from="1730801382542" duration="972000" />
     </task>
     <servers />
   </component>
@@ -112,8 +101,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/frontend/src/app/layout.tsx</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/app/page.tsx</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
