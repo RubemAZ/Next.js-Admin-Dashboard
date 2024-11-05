@@ -6,16 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c676f173-bc62-41e1-ae3e-ab042e74683f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/layout/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/layout/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/styles/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/styles/page.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/styles/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Header.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,22 +18,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "RubemAZ"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RubemAZ&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/RubemAZ/Hotsite-template.git",
-    "accountId": "3df6baa6-edd2-4fa0-8b68-13f281a4a159"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RubemAZ/Hotsite-template.git&quot;,
+    &quot;accountId&quot;: &quot;3df6baa6-edd2-4fa0-8b68-13f281a4a159&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2oMRpz0SO8EOdd8pNaMyyjyuotM" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -58,17 +51,18 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
     "ts.external.directory.path": "C:\\Projects\\Hotsite-template\\frontend\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Projects\Hotsite-template\frontend\pages" />
+      <recent name="C:\Projects\Hotsite-template\frontend\src\app" />
+      <recent name="C:\Projects\Hotsite-template\frontend\src" />
+      <recent name="C:\Projects\Hotsite-template\frontend\src\app\styles" />
       <recent name="C:\Projects\Hotsite-template\frontend\styles" />
-      <recent name="C:\Projects\Hotsite-template\frontend\components\layout" />
-      <recent name="C:\Projects\Hotsite-template\frontend" />
-      <recent name="C:\Projects\Hotsite-template\components" />
+      <recent name="C:\Projects\Hotsite-template\frontend\app" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -87,10 +81,38 @@
       <option name="presentableId" value="Default" />
       <updated>1730677646000</updated>
       <workItem from="1730677647666" duration="4789000" />
+      <workItem from="1730787821334" duration="3411000" />
+      <workItem from="1730794926223" duration="811000" />
+      <workItem from="1730795756655" duration="18000" />
+      <workItem from="1730795783211" duration="37000" />
+      <workItem from="1730795902990" duration="2404000" />
+      <workItem from="1730798674157" duration="1889000" />
+      <workItem from="1730800588666" duration="702000" />
+      <workItem from="1730801307686" duration="11000" />
+      <workItem from="1730801382542" duration="1373000" />
+      <workItem from="1730802791552" duration="119000" />
+      <workItem from="1730802975498" duration="1578000" />
+      <workItem from="1730805389304" duration="422000" />
+      <workItem from="1730805833541" duration="2217000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/app/layout.tsx</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/app/page.tsx</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
