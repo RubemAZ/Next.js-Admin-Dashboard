@@ -5,70 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c676f173-bc62-41e1-ae3e-ab042e74683f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/backgrounds/404-error-idea.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/backgrounds/login-bg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/backgrounds/rocket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/logos/dark-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/products/empty-shopping-bag.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/products/s11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/products/s4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/products/s5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/products/s7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/images/profile/user-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/next.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/vercel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/react-mui-sidebar.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/components/container/PageContainer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/components/dashboard/Blog.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/components/dashboard/MonthlyEarnings.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/components/dashboard/ProductPerformance.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/components/dashboard/RecentTransactions.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/components/dashboard/SalesOverview.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/components/dashboard/YearlyBreakup.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/components/forms/theme-elements/CustomTextField.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/components/shared/BlankCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/components/shared/DashboardCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/icons/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/layout/header/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/layout/header/Profile.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/layout/header/data.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/layout/shared/logo/Logo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/layout/sidebar/MenuItems.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/layout/sidebar/NavGroup/NavGroup.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/layout/sidebar/NavItem/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/layout/sidebar/Sidebar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/layout/sidebar/SidebarItems.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/layout/sidebar/Updrade.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/loading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/sample-page/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/utilities/shadow/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/utilities/typography/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/authentication/auth/AuthLogin.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/authentication/auth/AuthRegister.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/authentication/login/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/authentication/register/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/loading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/utils/createEmotionCache.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/utils/theme.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/utils/theme/DefaultColors.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/next.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/styles/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/Footer.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/Header.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/layout/sidebar/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/(DashboardLayout)/layout/sidebar/Sidebar.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,12 +23,12 @@
     &quot;assignee&quot;: &quot;RubemAZ&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:RubemAZ/Next.js-Admin-Dashboard.git",
-    "accountId": "3df6baa6-edd2-4fa0-8b68-13f281a4a159"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:RubemAZ/Next.js-Admin-Dashboard.git&quot;,
+    &quot;accountId&quot;: &quot;3df6baa6-edd2-4fa0-8b68-13f281a4a159&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -102,28 +41,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dev",
-    "last_opened_file_path": "C:/Projects/Next.js-Admin-Dashboard",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
-    "ts.external.directory.path": "C:\\Projects\\Hotsite-template\\frontend\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/Next.js-Admin-Dashboard&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Projects\\Next.js-Admin-Dashboard\\frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\Next.js-Admin-Dashboard" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\Next.js-Admin-Dashboard\" />
+      <recent name="C:\Projects\Next.js-Admin-Dashboard" />
       <recent name="C:\Projects\Hotsite-template\frontend\src\app" />
       <recent name="C:\Projects\Hotsite-template\frontend\src" />
       <recent name="C:\Projects\Hotsite-template\frontend\src\app\styles" />
-      <recent name="C:\Projects\Hotsite-template\frontend\styles" />
-      <recent name="C:\Projects\Hotsite-template\frontend\app" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -155,7 +97,8 @@
       <workItem from="1730802975498" duration="1578000" />
       <workItem from="1730805389304" duration="422000" />
       <workItem from="1730805833541" duration="2217000" />
-      <workItem from="1731055489028" duration="310000" />
+      <workItem from="1731055489028" duration="2823000" />
+      <workItem from="1731059457675" duration="2936000" />
     </task>
     <servers />
   </component>
